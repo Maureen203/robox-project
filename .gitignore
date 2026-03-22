@@ -1,0 +1,12 @@
+# Project place file
+/robox project.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+sourcemap.json
+
+# Wally packages (regenerated via `wally install`)
+/Packages/
+/ServerPackages/
